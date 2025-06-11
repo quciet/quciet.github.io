@@ -9,3 +9,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+author:
+  name: Yutang
+  email: yutang.xiong@du.edu
+  github: https://github.com/quciet
+  linkedin: https://www.linkedin.com/in/yutang-xiong

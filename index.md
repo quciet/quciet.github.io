@@ -2,4 +2,4 @@
 layout: home
 title: Welcome
 ---
-Welcome to my personal website. 
+Hi, I'm Yutang, a data enthusiast. Welcome to my personal website. 
