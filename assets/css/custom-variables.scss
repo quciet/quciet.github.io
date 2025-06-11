@@ -1,0 +1,10 @@
+// overide some settings in the minimal-mistakes theme
+
+// twitter color theme
+$twitter-color: #000;
+ 
+// profile image
+.author__avatar img {
+    border-radius: 0;
+    max-width: 500px;  // or any size you prefer
+  }
