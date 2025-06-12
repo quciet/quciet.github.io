@@ -3,7 +3,7 @@ layout: single
 title: "Coding"
 permalink: /coding/
 author_profile: false
-classes: no-sidebar
+
 ---
 
 Below is a sampling of coding projects. Each block links to a repository or demonstration.

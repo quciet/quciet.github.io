@@ -3,7 +3,7 @@ layout: single
 title: "Research & Projects"
 permalink: /research/
 author_profile: false
-classes: no-sidebar
+
 ---
 
 Here you will find my scholarly work and technical projects.
