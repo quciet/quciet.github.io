@@ -5,7 +5,11 @@ search: false
 
 @charset "utf-8";
 
-@import "custom-variables"; 
+// NOTE: Sass @import is deprecated and will be removed in Dart Sass 3.0.
+// The Minimal Mistakes theme still relies on @import, so these lines
+// trigger deprecation warnings during builds.
+// Future updates may switch to `@use` once the theme supports it.
+@import "custom-variables";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
