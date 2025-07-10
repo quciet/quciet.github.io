@@ -29,6 +29,10 @@ author_profile: false
 
 
 ## Projects & Reports
+- Charged for change: The case for renewable energy in climate action  
+  <small>*Pardee Institute, UNDP, and Octopus Energy (2024–2025)*</small>  
+  Collected and integrated energy data from multiple agencies to enhance the renewables component of the energy module within the International Futures (IFs) Integrated Assessment Model. Contributed to validating the model’s structure and ensuring accurate data reporting. <br>
+  [View report](https://climatepromise.undp.org/charged-for-change-renewable-energy-climate-action)
 
 - The Minerva Initiative: Identifying Patterns in the Structural Drivers of Intrastate Conflict  
   <small>*Pardee Center, University of Denver (2021–2022)*</small>  

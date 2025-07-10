@@ -10,10 +10,10 @@ Below is a sampling of coding projects. Each block links to a repository or demo
 
 <div class="coding-grid">
   <div class="coding-project">
-    <a href="https://github.com/quciet">
-      <h3>Weather Dashboard</h3>
-      <p>Interactive visualization of local weather trends.</p>
-    </a>
+    <a href="https://github.com/quciet/datagator_flask_mongo">
+      <h3>Mini DataGator</h3>
+      <p>A lightweight web app to standardize territory names for user uploaded datasets.</p>
+    </a>  
   </div>
   <div class="coding-project">
     <a href="https://github.com/quciet">
@@ -22,27 +22,15 @@ Below is a sampling of coding projects. Each block links to a repository or demo
     </a>
   </div>
   <div class="coding-project">
-    <a href="https://github.com/quciet">
-      <h3>Machine Learning Pipeline</h3>
-      <p>End-to-end workflow for classification problems.</p>
+    <a href="https://github.com/PardeeCenterDU/BIGPOPA">
+      <h3>IAM Optimazition</h3>
+      <p>A wrapper that runs a .NET IAM model and tunes the model settings.</p>
     </a>
   </div>
   <div class="coding-project">
-    <a href="https://github.com/quciet">
-      <h3>Text Mining Application</h3>
-      <p>Tools for analyzing and visualizing text data.</p>
-    </a>
-  </div>
-  <div class="coding-project">
-    <a href="https://github.com/quciet">
-      <h3>API Integration Script</h3>
-      <p>Automates data pulls from external APIs.</p>
-    </a>
-  </div>
-  <div class="coding-project">
-    <a href="https://github.com/quciet">
-      <h3>Portfolio Website</h3>
-      <p>Template for quickly deploying a personal site.</p>
+    <a href="https://github.com/PardeeCenterDU/MDBtoSQLite">
+      <h3>Database Migration</h3>
+      <p>Recursively convert MSAccess files to SQLite (.db).</p>
     </a>
   </div>
 </div>
